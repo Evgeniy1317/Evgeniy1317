@@ -36,21 +36,23 @@ My goal is to create websites that not only look great but perform flawlessly ac
 ## 📬 Contact  
 
 <p align="center">
-  <a href="https://t.me/qweqweqweeqwe" target="_blank">
+  <a href="https://t.me/qweqweqweeqwe" target="_blank" style="text-decoration:none;">
     <img src="https://img.icons8.com/fluency/48/telegram-app.png" width="40" height="40" alt="Telegram" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://instagram.com/jenyaa_u" target="_blank">
+  <a href="https://instagram.com/jenyaa_u" target="_blank" style="text-decoration:none;">
     <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="40" height="40" alt="Instagram" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:evgenijurin998@gmail.com">
+  <a href="mailto:evgenijurin998@gmail.com" style="text-decoration:none;">
     <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="40" height="40" alt="Gmail" />
   </a>
 </p>
 
 
+
 ---
 
 <p align="center"><sub>Thank you for visiting my portfolio! I am always open to discussing new opportunities and collaborations. Let's build something amazing together!</sub></p>
+
 

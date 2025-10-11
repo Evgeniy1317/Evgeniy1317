@@ -44,7 +44,7 @@ My goal is to create websites that not only look great but perform flawlessly ac
     <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="40" height="40" alt="Instagram" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:evgenijurin998@gmail.com" style="text-decoration:none;">
+ <a href="mailto:evgenijurin998@gmail.com" target="_blank" style="text-decoration:none;">
     <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="40" height="40" alt="Gmail" />
   </a>
 </p>
@@ -54,5 +54,6 @@ My goal is to create websites that not only look great but perform flawlessly ac
 ---
 
 <p align="center"><sub>Thank you for visiting my portfolio! I am always open to discussing new opportunities and collaborations. Let's build something amazing together!</sub></p>
+
 
 

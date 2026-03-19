@@ -69,10 +69,26 @@ CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=t
 
 ## 📬 Contact
 
--   Telegram: https://t.me/qweqweqweeqwe\
--   Instagram: https://instagram.com/jenyaa_u\
--   Email: evgenijurin998@gmail.com
+```{=html}
+<p align="center">
+```
+`<a href="https://t.me/qweqweqweeqwe">`{=html}
+`<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>`{=html}
+`</a>`{=html} `<a href="https://instagram.com/jenyaa_u">`{=html}
+`<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>`{=html}
+`</a>`{=html} `<a href="mailto:evgenijurin998@gmail.com">`{=html}
+`<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>`{=html}
+`</a>`{=html}
+```{=html}
+</p>
+```
 
 ------------------------------------------------------------------------
 
+```{=html}
+<p align="center">
+```
 Thank you for visiting my profile! 🚀
+```{=html}
+</p>
+```

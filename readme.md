@@ -6,7 +6,7 @@
 
 **I'm a Full-Stack Developer who builds complete, production-ready web applications — from pixel-perfect UI to robust backend and database architecture.**
 
-I work across the full stack — React/Next.js on the front end, Node.js or Python on the back end, PostgreSQL/MongoDB for data, and cloud deployment via Docker + CI/CD pipelines. I also integrate AI-powered features into modern web apps and build REST APIs using C, C++, and C#.
+I work across the full stack — (React/React Native)/Next.js on the front end, Node.js or Python on the back end, PostgreSQL/MongoDB for data, and cloud deployment via Docker + CI/CD pipelines. I also integrate AI-powered features into modern web apps and build REST APIs using C, C++, and C#.
 
 ---
 

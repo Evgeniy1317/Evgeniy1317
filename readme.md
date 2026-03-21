@@ -12,9 +12,30 @@ I work across the full stack — (React/React Native)/Next.js on the front end, 
 
 ## 🛠️ Skills
 
-<p align="center" style="margin:0;padding:0;line-height:0;">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,c,cpp,cs&perline=12" style="display:block;" />
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,supabase,docker,tailwind,bootstrap,wordpress,figma,git&perline=12" style="display:block;" />
+<p align="center" style="margin:0;padding:0;">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" /></a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" /></a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /></a>&nbsp;
+  <a href="https://www.typescriptlang.org"><img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" /></a>&nbsp;
+  <a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /></a>&nbsp;
+  <a href="https://nextjs.org"><img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" /></a>&nbsp;
+  <a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" /></a>&nbsp;
+  <a href="https://expressjs.com"><img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" /></a>&nbsp;
+  <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /></a>&nbsp;
+  <a href="https://en.cppreference.com/w/c"><img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" /></a>&nbsp;
+  <a href="https://isocpp.org"><img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" /></a>&nbsp;
+  <a href="https://dotnet.microsoft.com/en-us/languages/csharp"><img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" /></a>
+  <br>
+  <a href="https://www.postgresql.org"><img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" /></a>&nbsp;
+  <a href="https://www.mongodb.com"><img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" /></a>&nbsp;
+  <a href="https://www.mysql.com"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" /></a>&nbsp;
+  <a href="https://supabase.com"><img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" /></a>&nbsp;
+  <a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /></a>&nbsp;
+  <a href="https://tailwindcss.com"><img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" /></a>&nbsp;
+  <a href="https://getbootstrap.com"><img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" /></a>&nbsp;
+  <a href="https://wordpress.org"><img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" /></a>&nbsp;
+  <a href="https://www.figma.com"><img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" /></a>&nbsp;
+  <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /></a>
 </p>
 
 ---

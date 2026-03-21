@@ -1,4 +1,8 @@
-# 💻 Full-Stack Developer | React · Node.js · AI Integration
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=200&section=header&text=Evgeniy%20Urin&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer&descSize=20&descColor=ffffff&descAlignY=55&animation=fadeIn" />
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Full-Stack+Developer;React+%7C+Node.js+%7C+AI+Integration" />
+</p>
 
 ---
 
@@ -51,6 +55,10 @@ I work across the full stack — (React/React Native)/Next.js on the front end, 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Evgeniy1317&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Evgeniy1317&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+</p>
+
 ---
 
 ## 🚀 Projects
@@ -86,3 +94,5 @@ I work across the full stack — (React/React Native)/Next.js on the front end, 
 ---
 
 <p align="center">Thank you for visiting my profile! I'm always open to discussing new opportunities and collaborations. Let's build something amazing together!</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer" />

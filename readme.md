@@ -1,16 +1,17 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=200&section=header&text=Evgeniy%20Urin&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer&descSize=20&descColor=ffffff&descAlignY=55&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=200&section=header&text=Evgeniy%20Urin&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Frontend%20Developer&descSize=20&descColor=ffffff&descAlignY=55&animation=fadeIn" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Full-Stack+Developer;React+%7C+Node.js+%7C+AI+Integration" />
+  <strong style="font-size: 24px; color: #6C63FF;">Frontend Developer</strong><br />
+  <span style="font-size: 16px;">React | Node.js | AI Integration</span>
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-**I'm a Full-Stack Developer who builds complete, production-ready web applications — from pixel-perfect UI to robust backend and database architecture.**
+**I'm a Frontend Developer who builds complete, production-ready web applications — from pixel-perfect UI to robust integration with backends and data layers.**
 
-I work across the full stack — (React/React Native)/Next.js on the front end, Node.js or Python on the back end, PostgreSQL/MongoDB for data, and cloud deployment via Docker + CI/CD pipelines. I also integrate AI-powered features into modern web apps and build REST APIs using C, C++, and C#.
+I focus on the client side — React/React Native and Next.js — while working comfortably with Node.js or Python on the back end, PostgreSQL/MongoDB for data, and cloud deployment via Docker + CI/CD pipelines. I also integrate AI-powered features into modern web apps and collaborate on REST APIs where C, C++, and C# are part of the stack.
 
 ---
 
@@ -24,11 +25,7 @@ I work across the full stack — (React/React Native)/Next.js on the front end, 
   <a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" /></a>&nbsp;
   <a href="https://nextjs.org"><img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" /></a>&nbsp;
   <a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" /></a>&nbsp;
-  <a href="https://expressjs.com"><img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" /></a>&nbsp;
-  <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /></a>&nbsp;
-  <a href="https://en.cppreference.com/w/c"><img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" /></a>&nbsp;
-  <a href="https://isocpp.org"><img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" /></a>&nbsp;
-  <a href="https://dotnet.microsoft.com/en-us/languages/csharp"><img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" /></a>
+  <a href="https://expressjs.com"><img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" /></a>
   <br>
   <a href="https://www.postgresql.org"><img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" /></a>&nbsp;
   <a href="https://www.mongodb.com"><img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" /></a>&nbsp;
@@ -40,13 +37,16 @@ I work across the full stack — (React/React Native)/Next.js on the front end, 
   <a href="https://wordpress.org"><img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" /></a>&nbsp;
   <a href="https://www.figma.com"><img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" /></a>&nbsp;
   <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /></a>
+  <br>
+  <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /></a>&nbsp;
+  <a href="https://en.cppreference.com/w/c"><img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" /></a>&nbsp;
+  <a href="https://isocpp.org"><img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" /></a>&nbsp;
+  <a href="https://dotnet.microsoft.com/en-us/languages/csharp"><img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" /></a>
 </p>
 
 ---
 
 ## 📊 GitHub Stats
-
-
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Evgeniy1317&theme=tokyonight&hide_border=true" />

@@ -58,22 +58,6 @@ I focus on the client side — React/React Native and Next.js — while working 
 
 ---
 
-## 🚀 Projects
-
-### 🏸 Project 1: Adaptive Website for Badminton Training Registration
-- **Description:** Full-stack website built from scratch on a turnkey basis — layout from Figma template with backend functionality for the admin panel.
-- **Technologies:** HTML5, CSS3, JavaScript, Bootstrap, Figma
-- **Link:** [github.com/Evgeniy1317/utm-badminton_site](https://github.com/Evgeniy1317/utm-badminton_site)
-
----
-
-### 🚗 Project 2: Single Page Car Showcase Website (Angular SPA)
-- **Description:** Responsive single-page application (SPA) using Angular for showcasing a car gallery.
-- **Technologies:** Angular, HTML5, CSS3, JavaScript, TypeScript, Figma
-- **Link:** [github.com/Evgeniy1317/cars](https://github.com/Evgeniy1317/cars)
-
----
-
 ## 📬 Contact
 
 <p align="center">

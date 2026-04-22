@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=200&section=header&text=Evgeniy%20Urin&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Frontend%20Developer&descSize=20&descColor=ffffff&descAlignY=55&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2DD4BF&height=200&section=header&text=Evgeniy%20Urin&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Frontend%20Developer&descSize=20&descColor=F0FDFA&descAlignY=55&animation=fadeIn" />
 
 <p align="center">
-  <strong style="font-size: 24px; color: #6C63FF;">Frontend Developer</strong><br />
-  <span style="font-size: 16px;">React | Node.js | AI Integration</span>
+  <strong style="font-size: 24px; color: #0F766E;">Frontend Developer</strong><br />
+  <span style="font-size: 16px; color: #047857;">React | Node.js | AI Integration</span>
 </p>
 
 ---
@@ -28,13 +28,8 @@ I focus on the client side — React/React Native and Next.js — while working 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Evgeniy1317&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Evgeniy1317&hide_border=true&background=042F2E&border=2DD4BF&ring=2DD4BF&fire=A3E635&currStreakNum=5EEAD4&currStreakLabel=F0FDFA&sideNums=5EEAD4&sideLabels=99F6E4&dates=7DD3C0" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Evgeniy1317&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-</p>
-
 ---
 
 ## 📬 Contact
@@ -61,6 +56,6 @@ I focus on the client side — React/React Native and Next.js — while working 
 
 ---
 
-<p align="center">Thank you for visiting my profile! I'm always open to discussing new opportunities and collaborations. Let's build something amazing together!</p>
+<p align="center" style="color: #047857;">Thank you for visiting my profile! I'm always open to discussing new opportunities and collaborations. Let's build something amazing together!</p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2DD4BF&height=120&section=footer" />

@@ -18,11 +18,11 @@ I focus on the client side — React/React Native and Next.js — while working 
 ## 🛠️ Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,flutter" alt="Frontend & Backend" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,nodejs,flutter" alt="Frontend & Backend" />
   <br />
-  <img src="https://skillicons.dev/icons?i=dart,mongodb,mysql,supabase,docker,tailwind,bootstrap,wordpress" alt="Database & Tools" />
+  <img src="https://skillicons.dev/icons?i=dart,mongodb,mysql,firebase,supabase,docker,tailwind,bootstrap,wordpress" alt="Database & Tools" />
   <br />
-  <img src="https://skillicons.dev/icons?i=git,figma,python,c,cpp,cs" alt="Other Skills" />
+  <img src="https://skillicons.dev/icons?i=npm,git,figma,python,c,cpp,cs" alt="Other Skills" />
 </p>
 
 ## 📊 GitHub Stats

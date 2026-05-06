@@ -22,7 +22,7 @@ I focus on the client side — React/React Native and Next.js — while working 
   <br />
   <img src="https://skillicons.dev/icons?i=dart,mongodb,mysql,firebase,supabase,docker,tailwind,bootstrap,wordpress" alt="Database & Tools" />
   <br />
-  <img src="https://skillicons.dev/icons?i=npm,git,figma,python,c,cpp,cs" alt="Other Skills" />
+  <img src="https://skillicons.dev/icons?i=pnpm,npm,git,figma,python,c,cpp,cs" alt="Other Skills" />
 </p>
 
 ## 📊 GitHub Stats

@@ -28,7 +28,7 @@ I focus on the client side — React/React Native and Next.js — while working 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Evgeniy1317&hide_border=true&background=042F2E&border=2DD4BF&ring=2DD4BF&fire=A3E635&currStreakNum=EEAD4&currStreakLabe=F0FDFA&sideNums=5EEAD4&sideLabels=99F6E4&dates=7DD3C0" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Evgeniy1317&hide_border=true&background=042F2E&border=2DD4BF&ring=2DD4BF&fire=A3E635&currStreakNum=5EEAD4&currStreakLabe=F0FDFA&sideNums=5EEAD4&sideLabels=99F6E4&dates=7DD3C0" />
 </p>
 ---
 

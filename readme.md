@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2DD4BF&height=200&section=header&text=Evgeniy%20Urin&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Frontend%20Developer&descSize=20&descColor=F0FDFA&descAlignY=55&animation=fadeIn" />
 
 <p align="center">
-  <strong style="font-size: 24px; color: #0F766E;">Frontend Developer</strong><br />
+  <strong style="font-size: 24px; color: #0F766E;">Full-Stack Web Developer</strong><br />
   <span style="font-size: 16px; color: #047857;">React | Node.js | AI Integration</span>
 </p>
 

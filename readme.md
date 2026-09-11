@@ -1,17 +1,17 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2DD4BF&height=200&section=header&text=Evgeniy%20Urin&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Frontend%20Developer&descSize=20&descColor=F0FDFA&descAlignY=55&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2DD4BF&height=200&section=header&text=Evgeniy%20Urin&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Web%20Developer&descSize=20&descColor=F0FDFA&descAlignY=55&animation=fadeIn" />
 
 <p align="center">
   <strong style="font-size: 24px; color: #0F766E;">Full-Stack Web Developer</strong><br />
-  <span style="font-size: 16px; color: #047857;">React | Node.js | AI Integration</span>
+  <span style="font-size: 16px; color: #047857;">React + Node.js | AI Integration & Web Apps </span>
 </p>
 
 ---
  
 ## 🧑‍💻 About Me
 
-**I'm a Frontend Developer who builds complete, production-ready web applications — from pixel-perfect UI to robust integration with backends and data layers.**
-
-I focus on the client side — React/React Native and Next.js — while working comfortably with Node.js or Python on the back end, PostgreSQL/MongoDB for data, and cloud deployment via Docker + CI/CD pipelines. I also integrate AI-powered features into modern web apps and collaborate on REST APIs where C, C++, and C# are part of the stack.
+Full-stack developer with practical experience in React, React Native, and Node.js, as well as backend development with 
+C#/.NET. Experienced in building web and mobile applications, developing REST APIs, and working with Clean Architecture. 
+Worked on commercial and freelance projects, including Telegram Mini Apps and full-stack solutions. 
 
 ---
 

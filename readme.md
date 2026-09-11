@@ -25,13 +25,6 @@ Worked on commercial and freelance projects, including Telegram Mini Apps and fu
   <img src="https://skillicons.dev/icons?i=pnpm,npm,git,figma,python,c,cpp,cs" alt="Other Skills" />
 </p>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Evgeniy1317&hide_border=true&background=042F2E&border=2DD4BF&ring=2DD4BF&fire=A3E635&currStreakNum=5EEAD4&currStreakLabel=F0FDFA&sideNums=5EEAD4&sideLabels=99F6E4&dates=7DD3C0" />
-</p>
----
-
 ## 📬 Contact
 
 <table align="center">
